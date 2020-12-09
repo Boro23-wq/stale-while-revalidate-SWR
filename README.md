@@ -1,7 +1,5 @@
 # Fetching Data
 
-The rest of the code for this module lives inside the [daydrink repository](https://github.com/leerob/daydrink).
-
 > Next.js 9.3 update: You can use `getServerSideProps` to replace `getInitialProps`. We also now have the ability to generate completely static sites using `getStaticProps` and `getStaticPaths`. These are all completely backward compatible and have no breaking changes, so everything still works!
 
 ## Resources
